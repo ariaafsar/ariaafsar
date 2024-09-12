@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/<ariaafsar>/<ariaafsar>/output/github-contribution-grid-snake.svg)
+
 <!--
 **ariaafsar/ariaafsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
