@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🐍 Contribution Snake Animation
-
 ![GitHub Snake Light](https://raw.githubusercontent.com/ariaafsar/ariaafsar/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ariaafsar/ariaafsar/output/github-snake-dark.svg#gh-dark-mode-only)
 
