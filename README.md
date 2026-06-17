@@ -93,6 +93,7 @@
 <p align="center">
 ⚡ I use Linux because troubleshooting Windows wasn't challenging enough.
 </p>
+
 ![GitHub Snake Light](https://raw.githubusercontent.com/ariaafsar/ariaafsar/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ariaafsar/ariaafsar/output/github-snake-dark.svg#gh-dark-mode-only)
 
